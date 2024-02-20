@@ -1,5 +1,6 @@
 
 Simple To-Do List in Python
+
 Este é um projeto simples de uma lista de tarefas em Python, onde você pode adicionar, remover e listar tarefas de maneira fácil e rápida. É uma aplicação de linha de comando minimalista, projetada para simplicidade e eficiência.
 
 Funcionalidades
